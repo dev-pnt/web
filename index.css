@@ -57,7 +57,7 @@ body {
 
 .middle-panel {
 	width: 100%;
-	height: 190px;
+	height: 210px;
 }
 
 .middle-panel {
@@ -119,16 +119,16 @@ body {
 }
 
 .m-slide {
-	margin: 50px 0 0 0;
+	margin: 0 0 0 33%;
 	background-image: url('img/sprite.png');
 	background-repeat: no-repeat;
 	background-size: auto;
-	background-position: -8px -8px;
+	background-position: -298px -43px;
 	display: block;
-	height: 83px;
+	height: 17px;
 	outline: none;
 	overflow: hidden;
 	text-indent: -999px;
 	white-space: nowrap;
-	width: 201px;
+	width: 66px;
 }
