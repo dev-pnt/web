@@ -102,6 +102,7 @@ body {
 	color: #000;
 	font-size: 25px;
 }
+
 .pnt-logo {
 	margin: 50px 0 0 0;
 	background-image: url('img/sprite.png');
@@ -117,5 +118,17 @@ body {
 	width: 201px;
 }
 
-
-
+.m-slide {
+	margin: 50px 0 0 0;
+	background-image: url('img/sprite.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: -8px -8px;
+	display: block;
+	height: 83px;
+	outline: none;
+	overflow: hidden;
+	text-indent: -999px;
+	white-space: nowrap;
+	width: 201px;
+}
