@@ -63,8 +63,13 @@ a:active {
 
 #top-nav-links li:hover {
 	background: #000;
+	cursor: pointer;
 	color: #ffcc00;
 	padding: 3px;
+}
+
+#top-nav-links a:hover{
+	color: #ffcc00;
 }
 
 .main-panel {

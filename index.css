@@ -61,14 +61,11 @@ a:active {
 	padding: 3px;
 }
 
-#top-nav-links a:hover{
-	color: #ffcc00;
-}
-
 #top-nav-links li:hover {
 	background: #000;
 	color: #ffcc00;
 	padding: 3px;
+	cursor: pointer;
 }
 
 .main-panel {
