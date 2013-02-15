@@ -4,6 +4,10 @@ body {
 }
 
 a {
+	color: #000;      
+}
+
+a {
 	text-decoration: none;
 }
 
@@ -55,6 +59,10 @@ a:active {
 	margin: 0 10px 0 10px;
 	display: inline-block;
 	padding: 3px;
+}
+
+#top-nav-links a:hover{
+	color: #ffcc00;
 }
 
 #top-nav-links li:hover {
